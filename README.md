@@ -1,2 +1,2 @@
 # Challenge7_Repo
-Proptech, the application of technology to real-estate markets
+Build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.

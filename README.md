@@ -31,8 +31,7 @@ Pyviz development environment
 ## Analysis
 The data story was composed based on the data analysis and visualisation generated using the hvplots 
 To view the web application, you migrate to where the etf_analyser.iypnb file is in the terminal and then type voila etf_analyser.iypnb. A screen shot of the resulting web application is shown below:
-![image](https://user-images.githubusercontent.com/88909565/139781338-0a07a5de-2df4-4747-b76e-b399229fa012.png)
-
+![image](https://user-images.githubusercontent.com/88909565/140020093-a8863a7b-4262-4825-a20c-436e9d0c07c6.png)
 
 ## Deliverables
 • A Jupyter notebook that contains the following:

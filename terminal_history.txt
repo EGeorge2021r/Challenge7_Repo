@@ -1,3 +1,16 @@
+   75  tech_stocks_python.py
+   76  python tech_stocks_python.py
+   77  python listing_assets.py
+   78  ls
+   79  cd listpwd
+   80  pwd
+   81  cd 02_lising_Assets
+   82  conda deactivatedev
+   83  conda deactivate
+   84  ls
+   85  cd Fintech\ workspace/
+   86  ~
+   87  tech_stocks_python.py
    88  pwd
    89  cd 02_listing_Assets
    90  ~
@@ -29,22 +42,9 @@
   116  cd one
   117  exit
   118  cd OneDrive
-  119  cd Desktop/
+  119  cd Desktop
   120  cd Fintech/
   121  cd Challenge7_Repo/
-  122  conda activate pyviz
-  123  git add -A
-  124  git commit -m "Commit updates with web application and READ me page"
-  125  git push origin main
-  126  history 50 >terminal_history.txt
-  127  git add -A
-  128  git commit -m "commit terminal history"
-  129  git push origin main
-  130  git pull origin main
-  131  git add -A
-  132  git commit -m "Added screen shot to Read me"
-  133  git push origin main
-  134  git add -A
-  135  git commit -m "updates to cumulative values using cumprod"
-  136  git push origin main
-  137  history 50 >terminal_history.txt
+  122  cd Challenge7_Repo/
+  123  cd Challenge7_Repo/
+  124   history 50 >terminal_history.txt
